@@ -6,13 +6,14 @@ Most conferences, including StanCon, have a clear code of conduct.
 Such codes makes it clear to attendees what type of behaviour is welcome (or unwelcome), and what the organizers may do if someone breaks this code.
 Members of marginal groups are the most likely to be on the receiving end of unwanted behaviour, and thus having a clear CoC provides a clear indicating from the organizers that they will aid them should anything unwanted occur.
 
-A clear CoC also aids community groups, like the Stan usergroup, in that members of marginal groups may feel more safe when engaging in the community, and thus it increases the probability of them actually engaging. 
+A clear CoC also aids community groups, like the Stan usergroup, in that members of marginal groups may feel more safe when engaging in the community, and thus it increases the probability of them actually engaging. We discussed creating an overarching CoC that encompasses all of the Stan community, including discourse etc.
 
 ## Scholarships to encourage diversity  
 
 ## Slack channel  
 
 ## Beginners space on discourse  
+Stan Forums via Discourse (and archived gmail mailing list) is a excellent resource for statistic techniques and Stan techniques more specifically. However, the content of these threads often represent the challenges faced by more experienced users. We discussed that this can make asking a simple or beginner question on discourse feel quite intimidating, even if the likely responses are friendly and helpful. We thought that it might be helpful to include have a specific thread on Discourse for beginners who are just getting started. 
 
 ## Mentoring  
 
